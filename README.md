@@ -8,7 +8,7 @@
 # Tecnologias que uso no meu dia
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/30px-HTML5_logo_and_wordmark.svg.png) 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/30px-CSS3_logo_and_wordmark.svg.png) 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/25px-CSS3_logo_and_wordmark.svg.png) 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/30px-Unofficial_JavaScript_logo_2.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/30px-React-icon.svg.png) 
 
