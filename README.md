@@ -7,11 +7,9 @@
 
 # Tecnologias que uso no meu dia
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/50px-HTML5_logo_and_wordmark.svg.png) 
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/36px-CSS3_logo_and_wordmark.svg.png) 
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/40px-Unofficial_JavaScript_logo_2.svg.png)
+![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png) 
 
 ##### *Entusiasta de tecnologia com foco em desenvolvimento web e design de interfaces. Sempre em busca de novos desafios e oportunidades para criar experiências digitais impactantes.* 💫
