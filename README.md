@@ -6,6 +6,7 @@
 - ⚡ Curiosidade:  Sou apaixonado por resolver problemas complexos com soluções simples e elegantes.
 
 [![Disc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox)
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-andr%C3%A9-30ab592b9/)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/25px-HTML5_logo_and_wordmark.svg.png)&nbsp;
