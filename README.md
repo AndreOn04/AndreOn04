@@ -17,3 +17,5 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/25px-React-icon.svg.png)&nbsp;
 
 ##### *Entusiasta de tecnologia com foco em desenvolvimento web e design de interfaces. Sempre em busca de novos desafios e oportunidades para criar experiências digitais impactantes.* 💫
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
