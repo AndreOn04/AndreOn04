@@ -1,4 +1,4 @@
-<p><a></a><img src="![github-header-image](https://github.com/AndreOn04/AndreOn04/assets/128987696/0c9c5ff0-f1d4-4d13-89eb-e4b593698aee)" /></p>
+<p><a></a><img src="![github-header-image](https://github.com/AndreOn04/AndreOn04/assets/128987696/0c9c5ff0-f1d4-4d13-89eb-e4b593698aee)" /></a></p>
 
 Sou um desenvolvedor Front-End. 
 
