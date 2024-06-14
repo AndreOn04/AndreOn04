@@ -1,9 +1,10 @@
-   <h3> 👋 Olá, sou Marcio Andre</h3>
-- 👀 Estou interessado Em desenvolvimento web e tecnologias front-end. <br>
-- 🌱 Atualmente estou aprendendo ReactJS e aprimorando minhas habilidades em JavaScript. <br> 
-- 💞️ Estou buscando colaborar em projetos open source relacionados a interfaces e experiência do usuário. <br> 
-- 📫 Como me encontrar:  andreonlinemt@yahoo.com <br> 
-- ⚡ Curiosidade: Sou apaixonado por resolver problemas complexos com soluções simples e elegantes. <br>
+<h4> Sobre Mim </h4>
+
+- 👨‍💻 Apaixonado por tecnologia e desenvolvimento web.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas.
+- ❤️ Focado em criar interfaces dinâmicas e amigáveis.
+- 👽 Aprendendo continuamente novas ferramentas e tecnologias.
+- ✅ Buscando oportunidades para aplicar habilidades em projetos desafiadores.
 
 <br>
 
