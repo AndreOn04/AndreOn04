@@ -1,4 +1,4 @@
-   <h3> 👋 Olá, sou Andre</h3>
+   <h3> 👋 Olá, sou Marcio Andre</h3>
 - 👀 Estou interessado Em desenvolvimento web e tecnologias front-end. <br>
 - 🌱 Atualmente estou aprendendo ReactJS e aprimorando minhas habilidades em JavaScript. <br> 
 - 💞️ Estou buscando colaborar em projetos open source relacionados a interfaces de usuário e experiência do usuário. <br> 
@@ -13,6 +13,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=black)
+
+## Tecnologias que Utilizo Diariamente
 
 <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
