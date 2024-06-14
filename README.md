@@ -1,4 +1,4 @@
-👋 <h3>Olá, sou Andre</h3>
+   <h3> 👋 Olá, sou Andre</h3>
 - 👀 Estou interessado Em desenvolvimento web e tecnologias front-end.
 - 🌱 Atualmente estou aprendendo ReactJS e aprimorando minhas habilidades em JavaScript.
 - 💞️ Estou buscando colaborar em projetos open source relacionados a interfaces de usuário e experiência do usuário.
