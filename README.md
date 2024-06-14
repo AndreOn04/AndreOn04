@@ -1,3 +1,7 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="assets/128987696/962e5f6a-315f-4b4d-a437-11ab2f0c0ed5" /></a></p>
+
+![gh-readme-header](https://github.com/AndreOn04/AndreOn04/assets/128987696/962e5f6a-315f-4b4d-a437-11ab2f0c0ed5)
+
 
 Sou um desenvolvedor Front-End. 
 
