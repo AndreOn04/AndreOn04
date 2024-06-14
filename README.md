@@ -1,7 +1,7 @@
 
 Sou um desenvolvedor FrontEnd
 
-<h4> Sobre Mim </h4>
+**Sobre Mim**
 
 - 👨‍💻 Apaixonado por tecnologia e desenvolvimento web.
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas.
