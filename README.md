@@ -1,6 +1,6 @@
 ![github-header-image-removebg-preview (2)](https://github.com/AndreOn04/AndreOn04/assets/128987696/0691cd2e-802d-4172-993c-880528a99dde)
 
-<p color: red>Explorando novas possibilidades na interseção entre tecnologia e criatividade.<p>
+Explorando novas possibilidades na interseção entre tecnologia e criatividade.
 
 **Sobre Mim**
 
@@ -20,9 +20,10 @@
 | ------------- | ------------- |
 
 <br>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
 <code><img height="20" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></code>
 <code><img height="20" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 ##### *Entusiasta de tecnologia com foco em desenvolvimento web e design de interfaces. Sempre em busca de novos desafios e oportunidades para criar experiências digitais impactantes.* 💫 <br>
