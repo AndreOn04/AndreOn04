@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo ReactJS e aprimorando minhas habilidades em JavaScript. <br> 
 - 💞️ Estou buscando colaborar em projetos open source relacionados a interfaces e experiência do usuário. <br> 
 - 📫 Como me encontrar:  andreonlinemt@yahoo.com <br> 
-- ⚡ Curiosidade:  <p style="font-family: "Lexend Deca", sans-serif;">Sou apaixonado por resolver problemas complexos com soluções simples e elegantes.</p> <br>
+- ⚡ Curiosidade:  <p style="font-family: "Lexend Deca">Sou apaixonado por resolver problemas complexos com soluções simples e elegantes.</p> <br>
 
 <br>
 
