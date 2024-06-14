@@ -1,6 +1,6 @@
 ![github-header-image__1_-removebg-preview (3)](https://github.com/AndreOn04/AndreOn04/assets/128987696/f0d8acd5-3b99-4d8e-9b7f-a492ff2b1538)
 
-<hr height="5">
+<hr>
 
 Explorando novas possibilidades na interseção entre tecnologia e criatividade.
 
