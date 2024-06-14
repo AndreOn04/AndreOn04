@@ -1,4 +1,4 @@
-![gh-readme-header-removebg-preview](https://github.com/AndreOn04/AndreOn04/assets/128987696/b625e3c0-becf-4121-9300-e706ec2de1a6)
+![github-header-image__1_-removebg-preview](https://github.com/AndreOn04/AndreOn04/assets/128987696/1c41f317-3047-4010-a6f5-dc4a2d6e05e8)
 
 Sou um desenvolvedor Front-End. 
 
