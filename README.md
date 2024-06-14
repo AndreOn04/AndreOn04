@@ -1,4 +1,4 @@
-![github-header-image-removebg-preview (2)](https://github.com/AndreOn04/AndreOn04/assets/128987696/0691cd2e-802d-4172-993c-880528a99dde)
+
 
 <hr>
 
