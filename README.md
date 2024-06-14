@@ -5,6 +5,8 @@
 - 📫 Como me encontrar:  andreonlinemt@yahoo.com <br> 
 - ⚡ Curiosidade:  Sou apaixonado por resolver problemas complexos com soluções simples e elegantes. <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 <br>
 
 [![Disc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) 
