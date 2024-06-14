@@ -1,6 +1,4 @@
-<p> <img src="![github-header-image](https://github.com/AndreOn04/AndreOn04/assets/128987696/288480a4-5f71-43d9-afce-10748dd5dfeb)" /> </p>
-
-![github-header-image](https://github.com/AndreOn04/AndreOn04/assets/128987696/288480a4-5f71-43d9-afce-10748dd5dfeb)
+![gh-readme-header-removebg-preview](https://github.com/AndreOn04/AndreOn04/assets/128987696/b625e3c0-becf-4121-9300-e706ec2de1a6)
 
 Sou um desenvolvedor Front-End. 
 
