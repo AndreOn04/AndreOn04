@@ -1,9 +1,9 @@
    <h3> 👋 Olá, sou Andre</h3>
-- 👀 Estou interessado Em desenvolvimento web e tecnologias front-end.
-- 🌱 Atualmente estou aprendendo ReactJS e aprimorando minhas habilidades em JavaScript.
-- 💞️ Estou buscando colaborar em projetos open source relacionados a interfaces de usuário e experiência do usuário.
-- 📫 Como me encontrar:  andreonlinemt@yahoo.com 
-- ⚡ Curiosidade:  Sou apaixonado por resolver problemas complexos com soluções simples e elegantes.
+- 👀 Estou interessado Em desenvolvimento web e tecnologias front-end. <br>
+- 🌱 Atualmente estou aprendendo ReactJS e aprimorando minhas habilidades em JavaScript. <br> 
+- 💞️ Estou buscando colaborar em projetos open source relacionados a interfaces de usuário e experiência do usuário. <br> 
+- 📫 Como me encontrar:  andreonlinemt@yahoo.com <br> 
+- ⚡ Curiosidade:  Sou apaixonado por resolver problemas complexos com soluções simples e elegantes. <br>
 
 <br>
 
