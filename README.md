@@ -1,5 +1,5 @@
 
-Sou um desenvolvedor FrontEnd
+Sou um desenvolvedor Front-End. 
 
 **Sobre Mim**
 
