@@ -3,7 +3,7 @@
 - 👨‍💻 Apaixonado por tecnologia e desenvolvimento web.
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas.
 - ❤️ Focado em criar interfaces dinâmicas e amigáveis.
-- 👽 Aprendendo continuamente novas ferramentas e tecnologias.
+- 📈 Aprendendo continuamente novas ferramentas e tecnologias.
 - ✅ Buscando oportunidades para aplicar habilidades em projetos desafiadores.
 
 <br>
