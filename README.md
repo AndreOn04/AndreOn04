@@ -19,3 +19,4 @@
 ##### *Entusiasta de tecnologia com foco em desenvolvimento web e design de interfaces. Sempre em busca de novos desafios e oportunidades para criar experiências digitais impactantes.* 💫 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=black)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
