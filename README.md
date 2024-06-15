@@ -32,5 +32,3 @@
 ##### *Entusiasta de tecnologia com foco em desenvolvimento web e design de interfaces. Sempre em busca de novos desafios e oportunidades para criar experiências digitais impactantes.* 💫 <br>
 
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
-
