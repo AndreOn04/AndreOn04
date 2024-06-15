@@ -6,8 +6,8 @@ Explorando novas possibilidades na interseção entre tecnologia e criatividade.
 
 **Sobre Mim**
 
-- 👨‍💻 Apaixonado por tecnologia e desenvolvimento web.
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Apaixonado por tecnologia e desenvolvimento web. <br>
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas. <br>
 - ❤️ Focado em criar interfaces dinâmicas e amigáveis.
 - 📈 Aprendendo continuamente novas ferramentas e tecnologias.
 - ✅ Buscando oportunidades para aplicar habilidades em projetos desafiadores.
