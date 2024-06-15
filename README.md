@@ -30,3 +30,7 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 ##### *Entusiasta de tecnologia com foco em desenvolvimento web e design de interfaces. Sempre em busca de novos desafios e oportunidades para criar experiências digitais impactantes.* 💫 <br>
+
+
+![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+
