@@ -2,7 +2,7 @@
 
 <hr>
 
-Explorando novas possibilidades na interseção entre tecnologia e criatividade.
+**Explorando novas possibilidades na interseção entre tecnologia e criatividade.*
 
 **Sobre Mim**
 
