@@ -7,6 +7,4 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact)
-![GitHub Streak](https://github-readme-stats.vercel.app/api/streak?user=seu_usuario)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
