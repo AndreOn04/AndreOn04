@@ -1,18 +1,10 @@
-![github-header-image__1_-removebg-preview (3)](https://github.com/AndreOn04/AndreOn04/assets/128987696/f0d8acd5-3b99-4d8e-9b7f-a492ff2b1538)
+**Olá, sou Marcio André**
 
-<hr>
-
-**Explorando novas possibilidades na interseção entre tecnologia e criatividade.**
-
-**Sobre Mim**
-
-- 👨‍💻 Apaixonado por tecnologia e desenvolvimento web.
+- 👨‍💻 Atualmente estudante de tecnologia. 
   
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas. 
+- 📚 Atualmente estou me aprofundando em desenvolvimento mobile com Dart & Flutter. 
 - ❤️ Focado em criar interfaces dinâmicas e amigáveis.
 - 📈 Aprendendo continuamente novas ferramentas e tecnologias.
-- ✅ Buscando oportunidades para aplicar habilidades em projetos desafiadores.
-
 <br>
 
 [![Disc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) 
