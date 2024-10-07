@@ -7,4 +7,4 @@
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&langs=dart,javascript,html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&langs=python,javascript,java)
