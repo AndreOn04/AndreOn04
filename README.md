@@ -6,4 +6,5 @@
 - 📈 Aprendendo continuamente novas ferramentas e tecnologias.
 
 <br>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&langs=python,javascript,java)
