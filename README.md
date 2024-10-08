@@ -7,6 +7,5 @@
 
 <br>
 
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreOn04&show_icons=true&bg_color=F5F5F5&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOn04&hide_progress=true)
+![AndreOn04's Stats](https://github-readme-stats.vercel.app/api?username=AndreOn04&theme=default&show_icons=true&hide_border=true&count_private=false)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOn04&hide_progress=true)
 
