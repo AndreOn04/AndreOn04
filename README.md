@@ -9,3 +9,5 @@
 
 ![AndreOn04's Stats](https://github-readme-stats.vercel.app/api?username=AndreOn04&theme=default&show_icons=true&hide_border=true&count_private=false)
 ![AndreOn04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOn04&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+![AndreOn04](https://github.com/AndreOn04.svg?size=100&theme=dark&bg_color=transparent)
