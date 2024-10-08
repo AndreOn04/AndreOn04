@@ -7,5 +7,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=AndreOn04&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&hide_progress=true&show_icons=true&theme=radical&border_color=2f80ed&bg_color=fffefe")
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOn04&hide_progress=true)
