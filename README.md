@@ -7,6 +7,5 @@
 
 <br>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&hide_progress=true&show_icons=true&theme=radical&border_color=2f80ed&bg_color=fffefe")
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOn04&hide_progress=true)
