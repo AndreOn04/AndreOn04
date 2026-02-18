@@ -28,6 +28,6 @@ Sistema com carrinho de compras, produtos e funcionalidades típicas de e-commer
 ---
 
 ## 📫 Contato
-
+- Linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 - Email: andreonlinemt@yahoo.com
 - Portfólio: https://andredevfjs.vercel.app/
