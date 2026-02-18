@@ -1,12 +1,34 @@
-**Olá, sou Marcio André**
+# Olá, eu sou o Marcio André 👋
 
-- 👨‍💻 Atualmente estudante de tecnologia. 
-- ❤️ Focado em criar interfaces dinâmicas e amigáveis.
-- 📈 Aprendendo continuamente novas ferramentas e tecnologias.
+Desenvolvedor Front-End em formação (ADS), com foco em **ReactJS**, **JavaScript** e criação de interfaces modernas, responsivas e funcionais.
 
-<br>
+Atualmente busco oportunidade como **Desenvolvedor Front-End Júnior (Remoto ou Presencial)**.
 
-![AndreOn04's Stats](https://github-readme-stats.vercel.app/api?username=AndreOn04&theme=default&show_icons=true&hide_border=true&count_private=false)
-![AndreOn04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOn04&theme=default&show_icons=true&hide_border=true&layout=compact)
+---
 
-![AndreOn04](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+## 🚀 Tecnologias
+
+- **Front-end:** HTML, CSS, JavaScript, ReactJS, Tailwind CSS, Bootstrap  
+- **Back-end:** PHP, MySQL, APIs REST, JSON  
+- **Ferramentas:** Git, GitHub, Vercel
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **EducaPenha**  
+Projeto educativo com foco em conscientização sobre violência doméstica, com funcionalidades interativas e destaque automático de leitura.  
+🌐 Deploy: https://educapenha.vercel.app/  
+
+
+🔹 **Loja Virtual (PHP + MySQL)**  
+Sistema com carrinho de compras, produtos e funcionalidades típicas de e-commerce.  
+
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (seu link)
+- Email: (seu email)
+- Portfólio: https://andredevfjs.vercel.app/
